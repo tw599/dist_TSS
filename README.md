@@ -4,6 +4,9 @@
 - Plots represent Distance (in kb) versus the Number of Peaks/Sites at a specific distance.
 - Specifically useful for profiling the Distance to TSS profiles for annotated ChIP-Seq, ATAC-Seq, HiC peaks.
 
+![](/TSSplot.png)<!-- -->
+<br><br><br>
+
 # Pre-Requisites
 
 Install python modules: *pandas*,*matplotlib*,*argparse*,*numpy*.
